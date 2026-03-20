@@ -103,8 +103,7 @@ npm run dev
 
 Add a `.env.local` file in the frontend folder:
 ```env
-
-lhost:5000
+NEXT_PUBLIC_API_URL=http://localhost:5000
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
